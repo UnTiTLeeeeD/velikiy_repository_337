@@ -7,9 +7,7 @@ list.append(6)
 # Удаление элементов
 list.pop()
 
-
 # Создание стека с помошью модуля collections
-
 from collections import deque
 stack_deque = deque()
 stack_deque.append('1')  # Добавление элемента в стек
